@@ -168,6 +168,7 @@
             txtNo.Name = "txtNo";
             txtNo.Size = new Size(184, 23);
             txtNo.TabIndex = 4;
+            txtNo.Text = "d";
             // 
             // txtAd
             // 
